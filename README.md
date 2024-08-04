@@ -35,6 +35,7 @@ The printer is built after the [Flatpack](https://github.com/eponra/flatpack). H
 ### These are Forge's specification as of July 16, 2024. As we begin test manufacturing Forge, these specifications may change.
 
  * STM32H563VITX 32-Bit MCU
+     - **New MCU is in the works**
  * TMC2209 Stepper Drivers
      - Reduced Motor Noise
      - Sensorless XY homing  
@@ -62,7 +63,8 @@ The printer is built after the [Flatpack](https://github.com/eponra/flatpack). H
 
  Forge runs on custom, open source Forge Firmware
 * Forge is **not supported by Klipper**
-   - Using forge with Klipper will require **replacing the mainboard** with an BigTreeTech SKR Pico and a Raspberry Pi Zero 2W alongside a seperately printed bracket (files will be provided at launch). Additionaly, no Klipper configuration files will be provided at this point. The bracket will still allow the printer to fold properly. 
+   - Using forge with Klipper will require **replacing the mainboard** with an BigTreeTech SKR Pico and a Raspberry Pi Zero 2W alongside a seperately printed bracket (files will be provided at launch). Additionaly, no Klipper configuration files will be provided at this point. The bracket will still allow the printer to fold properly.
+   - **The Forge Dev Team is actively working on Klipper support for Forge Hardware. More information will be announced as progress continues**
 
 ## Additional notes
 

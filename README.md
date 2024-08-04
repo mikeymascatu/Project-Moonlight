@@ -65,6 +65,7 @@ The printer is built after the [Flatpack](https://github.com/eponra/flatpack). H
 * Forge is **not supported by Klipper**
    - Using forge with Klipper will require **replacing the mainboard** with an BigTreeTech SKR Pico and a Raspberry Pi Zero 2W alongside a seperately printed bracket (files will be provided at launch). Additionaly, no Klipper configuration files will be provided at this point. The bracket will still allow the printer to fold properly.
    - **The Forge Dev Team is actively working on Klipper support for Forge Hardware. More information will be announced as progress continues**
+   - If Forge is Klipper supported, a Pi Zero 2W is still required.
 
 ## Additional notes
 
